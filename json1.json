@@ -21,14 +21,17 @@
 },
 {
 "display": "SQL Tutorial",
-"url": "https://www.w3schools.com/sql/default.asp"
+"url": "https://www.w3schools.com/sql/default.asp",
+    "gambar": "adajugas"
 },
 {
 "display": "PHP Tutorial",
-"url": "https://www.w3schools.com/php/default.asp"
+"url": "https://www.w3schools.com/php/default.asp",
+    "gambar": "adajugahj"
 },
 {
 "display": "XML Tutorial",
-"url": "https://www.w3schools.com/xml/default.asp"
+"url": "https://www.w3schools.com/xml/default.asp",
+    "gambar": "adajugahighgi"
 }
 ]
