@@ -1,37 +1,52 @@
 [
-{
-"display": "HTML Tutorial",
-"url": "https://www.w3schools.com/html/default.asp",
-  "gambar": "<b>kosong</b>"
-},
-{
-"display": "CSS Tutorial",
-"url": "https://www.w3schools.com/css/default.asp",
-  "gambar": "ada aja"
-},
-{
-"display": "JavaScript Tutorial",
-"url": "https://www.w3schools.com/js/default.asp",
-  "gambar": "sekaraj aja"
-},
-{
-"display": "jQuery Tutorial",
-"url": "https://www.w3schools.com/jquery/default.asp",
-  "gambar": "adajuga"
-},
-{
-"display": "SQL Tutorial",
-"url": "https://www.w3schools.com/sql/default.asp",
-    "gambar": "adajugas"
-},
-{
-"display": "PHP Tutorial",
-"url": "https://www.w3schools.com/php/default.asp",
-    "gambar": "<b>adajugahj</b>"
-},
-{
-"display": "XML Tutorial",
-"url": "https://www.w3schools.com/xml/default.asp",
-    "gambar": "adajugahighgi"
-}
+    {
+        "nama": "Waistbag mini",
+        "deskripsi": "MINI STYLE DESIGN TAPAX<br>SALAH SATU PRODAK ANDALAN DARI TAPAX BRANDED STORE, YAITU MINI STYLE DESIGN TAPAX,TAS INI DI DESIGN BAGI KALIAN YANG GA SUKA RIBET DENGAN MEMBAWA BARANG BARANG TERLALU BANYAK<br>TAS INI DI DESIGN DENGAN UKURAN MINI (SAMA SEPERTI NAMA NYA)  AGAR LEBIH SIMPLE SAAT DI PAKAI<br>TAS INI HANYA MUAT UNTUK DOMPET DAN PERALATAN GADGET ANDA DAN POWER BANK TIDAK LUPA, DAN TAS INI SUDAH ADA LUBANG EARPHONE / HEDSET SEHINGGA LEBIH MULTI FUNGSI, DAN JANGAN LUPA TAS INI DI BUAT DENGAN BAHAN YANG SANGAT BERKUALITAS, DAN JANGAN TAKUT TAS INI DI BANDROL DENGAN HARGA YANG SANGAT MURAH LOH.",
+        "kategori": "tas",
+        "gambar": "assets/gambar/tas/waistbag1/0.jpeg",
+        "Harga": "30.000",
+        "lokasi": "assets/gambar/tas/waistbag1/",
+        "spesifikasi": "Bahan terbuat dari bahan kordura<br>Memiliki 3 lot penyimpanan<br>Terdapat lobang earphone/hedset<br>Memiliki dimensi P 33 Cm X L 11,5 Cm X T 16 Cm<br>BAGIAN DALAM SUDAH DI LAPISI BAHAN SATIN YANG SANGAT LEMBUT<br>ADA BUSA DI BAGIAN DALAM NYA<br>DAN ADA JARING SEKAT DI SLOT UTAMANYA",
+        "id": "0",
+    },
+    {
+        "nama": "Waistbag mini2",
+        "deskripsi": "MINI STYLE DESIGN TAPAX<br>SALAH SATU PRODAK ANDALAN DARI TAPAX BRANDED STORE, YAITU MINI STYLE DESIGN TAPAX,TAS INI DI DESIGN BAGI KALIAN YANG GA SUKA RIBET DENGAN MEMBAWA BARANG BARANG TERLALU BANYAK<br>TAS INI DI DESIGN DENGAN UKURAN MINI (SAMA SEPERTI NAMA NYA)  AGAR LEBIH SIMPLE SAAT DI PAKAI<br>TAS INI HANYA MUAT UNTUK DOMPET DAN PERALATAN GADGET ANDA DAN POWER BANK TIDAK LUPA, DAN TAS INI SUDAH ADA LUBANG EARPHONE / HEDSET SEHINGGA LEBIH MULTI FUNGSI, DAN JANGAN LUPA TAS INI DI BUAT DENGAN BAHAN YANG SANGAT BERKUALITAS, DAN JANGAN TAKUT TAS INI DI BANDROL DENGAN HARGA YANG SANGAT MURAH LOH.",
+        "kategori": "tas",
+        "gambar": "assets/gambar/tas/waistbag1/0.jpeg",
+        "Harga": "30.000",
+        "lokasi": "assets/gambar/tas/waistbag1/",
+        "spesifikasi": "Bahan terbuat dari bahan kordura<br>Memiliki 3 lot penyimpanan<br>Terdapat lobang earphone/hedset<br>Memiliki dimensi P 33 Cm X L 11,5 Cm X T 16 Cm<br>BAGIAN DALAM SUDAH DI LAPISI BAHAN SATIN YANG SANGAT LEMBUT<br>ADA BUSA DI BAGIAN DALAM NYA<br>DAN ADA JARING SEKAT DI SLOT UTAMANYA",
+        "id": "0",
+    },
+    {
+        "nama": "Waistbag mini6",
+        "deskripsi": "MINI STYLE DESIGN TAPAX<br>SALAH SATU PRODAK ANDALAN DARI TAPAX BRANDED STORE, YAITU MINI STYLE DESIGN TAPAX,TAS INI DI DESIGN BAGI KALIAN YANG GA SUKA RIBET DENGAN MEMBAWA BARANG BARANG TERLALU BANYAK<br>TAS INI DI DESIGN DENGAN UKURAN MINI (SAMA SEPERTI NAMA NYA)  AGAR LEBIH SIMPLE SAAT DI PAKAI<br>TAS INI HANYA MUAT UNTUK DOMPET DAN PERALATAN GADGET ANDA DAN POWER BANK TIDAK LUPA, DAN TAS INI SUDAH ADA LUBANG EARPHONE / HEDSET SEHINGGA LEBIH MULTI FUNGSI, DAN JANGAN LUPA TAS INI DI BUAT DENGAN BAHAN YANG SANGAT BERKUALITAS, DAN JANGAN TAKUT TAS INI DI BANDROL DENGAN HARGA YANG SANGAT MURAH LOH.",
+        "kategori": "tas",
+        "gambar": "assets/gambar/tas/waistbag1/0.jpeg",
+        "Harga": "30.000",
+        "lokasi": "assets/gambar/tas/waistbag1/",
+        "spesifikasi": "Bahan terbuat dari bahan kordura<br>Memiliki 3 lot penyimpanan<br>Terdapat lobang earphone/hedset<br>Memiliki dimensi P 33 Cm X L 11,5 Cm X T 16 Cm<br>BAGIAN DALAM SUDAH DI LAPISI BAHAN SATIN YANG SANGAT LEMBUT<br>ADA BUSA DI BAGIAN DALAM NYA<br>DAN ADA JARING SEKAT DI SLOT UTAMANYA",
+        "id": "0",
+    },
+    {
+        "nama": "Waistbag mini5",
+        "deskripsi": "MINI STYLE DESIGN TAPAX<br>SALAH SATU PRODAK ANDALAN DARI TAPAX BRANDED STORE, YAITU MINI STYLE DESIGN TAPAX,TAS INI DI DESIGN BAGI KALIAN YANG GA SUKA RIBET DENGAN MEMBAWA BARANG BARANG TERLALU BANYAK<br>TAS INI DI DESIGN DENGAN UKURAN MINI (SAMA SEPERTI NAMA NYA)  AGAR LEBIH SIMPLE SAAT DI PAKAI<br>TAS INI HANYA MUAT UNTUK DOMPET DAN PERALATAN GADGET ANDA DAN POWER BANK TIDAK LUPA, DAN TAS INI SUDAH ADA LUBANG EARPHONE / HEDSET SEHINGGA LEBIH MULTI FUNGSI, DAN JANGAN LUPA TAS INI DI BUAT DENGAN BAHAN YANG SANGAT BERKUALITAS, DAN JANGAN TAKUT TAS INI DI BANDROL DENGAN HARGA YANG SANGAT MURAH LOH.",
+        "kategori": "tas",
+        "gambar": "assets/gambar/tas/waistbag1/0.jpeg",
+        "Harga": "30.000",
+        "lokasi": "assets/gambar/tas/waistbag1/",
+        "spesifikasi": "Bahan terbuat dari bahan kordura<br>Memiliki 3 lot penyimpanan<br>Terdapat lobang earphone/hedset<br>Memiliki dimensi P 33 Cm X L 11,5 Cm X T 16 Cm<br>BAGIAN DALAM SUDAH DI LAPISI BAHAN SATIN YANG SANGAT LEMBUT<br>ADA BUSA DI BAGIAN DALAM NYA<br>DAN ADA JARING SEKAT DI SLOT UTAMANYA",
+        "id": "0",
+    },
+    {
+        "nama": "Waistbag mini4",
+        "deskripsi": "MINI STYLE DESIGN TAPAX<br>SALAH SATU PRODAK ANDALAN DARI TAPAX BRANDED STORE, YAITU MINI STYLE DESIGN TAPAX,TAS INI DI DESIGN BAGI KALIAN YANG GA SUKA RIBET DENGAN MEMBAWA BARANG BARANG TERLALU BANYAK<br>TAS INI DI DESIGN DENGAN UKURAN MINI (SAMA SEPERTI NAMA NYA)  AGAR LEBIH SIMPLE SAAT DI PAKAI<br>TAS INI HANYA MUAT UNTUK DOMPET DAN PERALATAN GADGET ANDA DAN POWER BANK TIDAK LUPA, DAN TAS INI SUDAH ADA LUBANG EARPHONE / HEDSET SEHINGGA LEBIH MULTI FUNGSI, DAN JANGAN LUPA TAS INI DI BUAT DENGAN BAHAN YANG SANGAT BERKUALITAS, DAN JANGAN TAKUT TAS INI DI BANDROL DENGAN HARGA YANG SANGAT MURAH LOH.",
+        "kategori": "tas",
+        "gambar": "assets/gambar/tas/waistbag1/0.jpeg",
+        "Harga": "30.000",
+        "lokasi": "assets/gambar/tas/waistbag1/",
+        "spesifikasi": "Bahan terbuat dari bahan kordura<br>Memiliki 3 lot penyimpanan<br>Terdapat lobang earphone/hedset<br>Memiliki dimensi P 33 Cm X L 11,5 Cm X T 16 Cm<br>BAGIAN DALAM SUDAH DI LAPISI BAHAN SATIN YANG SANGAT LEMBUT<br>ADA BUSA DI BAGIAN DALAM NYA<br>DAN ADA JARING SEKAT DI SLOT UTAMANYA",
+        "id": "0",
+    }
 ]
