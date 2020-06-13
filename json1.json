@@ -1,19 +1,23 @@
 [
 {
 "display": "HTML Tutorial",
-"url": "https://www.w3schools.com/html/default.asp"
+"url": "https://www.w3schools.com/html/default.asp",
+  "gambar": "kosong"
 },
 {
 "display": "CSS Tutorial",
-"url": "https://www.w3schools.com/css/default.asp"
+"url": "https://www.w3schools.com/css/default.asp",
+  "gambar": "ada aja"
 },
 {
 "display": "JavaScript Tutorial",
-"url": "https://www.w3schools.com/js/default.asp"
+"url": "https://www.w3schools.com/js/default.asp",
+  "gambar": "sekaraj aja"
 },
 {
 "display": "jQuery Tutorial",
-"url": "https://www.w3schools.com/jquery/default.asp"
+"url": "https://www.w3schools.com/jquery/default.asp",
+  "gambar": "adajuga"
 },
 {
 "display": "SQL Tutorial",
